@@ -19,8 +19,11 @@ all built upon inheritence and implementations
 
 I used a lot of very useful resources while working on this project that I will link below.
 stackoverflow.com
+
 geeksforgeeks.org
+
 https://docs.oracle.com/javase/tutorial/uiswing/
+
 https://www.javatpoint.com/java-swing
 
 I hope you enjoy!
